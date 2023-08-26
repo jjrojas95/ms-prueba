@@ -1,0 +1,10 @@
+id,hash,name,commerce_id
+0,HSF2RT,camisetas,0
+1,HSF3RT,blusas,0
+2,BCM3RT,botones,2
+3,ISM3RT,casas,1
+4,BCM2RT,reportes,2
+5,PSF2RT,camisetas,3
+6,BRM3RT,botones,4
+7,PSF3RT,blusas,3
+8,BRM2RT,reportes,4

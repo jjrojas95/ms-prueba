@@ -1,0 +1,4 @@
+id,address,name,document_number,document_type,age,account_number
+0,calle falsa 123,juan,1088324260,CC,39,10000000000
+1,calle falsa 123,jose,1088324261,CC,26,10000000001
+2,calle falsa 123,rojas,1088324262,CC,55,10000000001

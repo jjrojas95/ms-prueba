@@ -14,11 +14,9 @@ include ':usecase'
 project(':app-service').projectDir = file('./applications/app-service')
 project(':model').projectDir = file('./domain/model')
 project(':usecase').projectDir = file('./domain/usecase')
-include ':common'
-project(':common').projectDir = file('./infrastructure/driven-adapters/common')
 include ':text-file-adapter'
 project(':text-file-adapter').projectDir = file('./infrastructure/driven-adapters/text-file-adapter')
-include ':generic-mapper'
-project(':generic-mapper').projectDir = file('./infrastructure/helpers/generic-mapper')
 include ':api-rest'
 project(':api-rest').projectDir = file('./infrastructure/entry-points/api-rest')
+include ':utils'
+project(':utils').projectDir = file('./infrastructure/helpers/utils')

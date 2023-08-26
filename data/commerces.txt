@@ -1,0 +1,6 @@
+id,name,address,document_number,sector,document_type
+0,menganito,calle falsa 123,100000000,textil,CC
+1,sultanito,calle falsa 456,100000001,salud,TI
+2,peranito,calle falsa 789,100000002,inmobiliario,RC
+3,merencejo,calle falsa 012,100000003,salud,CE
+4,juan,calle falsa 345,100000004,textil,CC

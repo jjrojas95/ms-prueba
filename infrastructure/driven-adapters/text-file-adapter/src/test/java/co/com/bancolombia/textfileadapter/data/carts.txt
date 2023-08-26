@@ -1,0 +1,4 @@
+id,name
+0,groceries
+1,tech
+2,furniture
