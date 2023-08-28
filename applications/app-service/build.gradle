@@ -1,6 +1,10 @@
 apply plugin: 'org.springframework.boot'
 
 dependencies {
+	implementation project( ':utils')
+	implementation project( ':api-rest')
+	implementation project( ':rest-consumer')
+	implementation 'org.springframework.boot:spring-boot-starter-webflux'
   implementation project(':model')
   implementation project(':usecase')
   implementation 'org.springframework.boot:spring-boot-starter'
